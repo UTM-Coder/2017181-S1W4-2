@@ -2,7 +2,7 @@ n1=prompt('Please insert the first number for fibonacci');
 i1=n1;
 n2=prompt('Please insert the second number for fibonacci');
 i2=n2;
-term=prompt('Please insert the number of term for fibonacci');;
+term=prompt('Please insert the number of term for fibonacci');
 document.write(+i1+' '+i2);
 
 inputn1 = parseInt(n1);
